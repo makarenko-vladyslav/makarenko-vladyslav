@@ -41,6 +41,6 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
---
+---
 
 [![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
