@@ -9,7 +9,6 @@ I specialize in building robust and responsive web applications and websites, th
 
 <b>Let’s create something amazing together 🚀</b>
 </div>
-<br>
 
 <div align="center" >
 
@@ -17,7 +16,7 @@ I specialize in building robust and responsive web applications and websites, th
 
 </div>
 
-##
+
 
   <h2>:computer: &nbsp;Main tech stack</h2>
   <br/>
