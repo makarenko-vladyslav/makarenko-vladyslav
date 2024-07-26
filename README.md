@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://tenor.com/uk/view/tobey-maguire-maurice-moss-fire-computer-busy-gif-14426600"  />
 
 ###
 
@@ -43,6 +43,10 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/output/snake.svg" alt="Snake animation" />
 
