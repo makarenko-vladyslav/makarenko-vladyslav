@@ -70,7 +70,7 @@
 
 ## ✍️ Random Dev Quote
 
-<div align="end" >
+<div align="center" >
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
