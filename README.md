@@ -92,7 +92,7 @@ I specialize in building robust and responsive web applications and websites, th
 
 
 
-div align="start" >
+<div align="start" >
 
 [![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
 
