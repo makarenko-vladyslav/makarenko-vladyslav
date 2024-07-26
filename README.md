@@ -26,16 +26,13 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 31%; height: 110px;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=makarenko-vladyslav&theme=ambient_gradient&hide_border=true" alt="GitHub Streak Stats" style="width: 31%; height: 110px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="width: 31%; height: 110px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="width: 31%; height: 110px;"/>    
   </div>
-</details>
-<details>
-  <summary><h2>🏆 GitHub Trophies:</h2></summary>
-  <br/>
   
 ![](https://github-profile-trophy.vercel.app/?username=makarenko-vladyslav&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
+  
 </details>
+  
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
