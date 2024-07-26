@@ -29,7 +29,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="width: 31%; height: 110px;"/>
   </div>
 </details>
-
 <details>
   <summary><h2>🏆 GitHub Trophies:</h2></summary>
   <br/>
