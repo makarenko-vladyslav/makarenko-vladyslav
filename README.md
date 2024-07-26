@@ -1,13 +1,13 @@
 > ## Hello <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/master/wave.gif" width="30"> <br> I’m a Full Stack Developer originally from Ukraine, currently based in the beautiful landscapes of Norway.
 
-### 🚀💫 What I Do:
+### 💫 What I Do:
 I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development. 
 <br>
 <br>
 
 <div align="center" >
 
-<b>Let’s create something amazing together!</b>
+<b>Let’s create something amazing together🚀</b>
 
 </div>
 
