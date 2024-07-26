@@ -31,8 +31,7 @@
 
 <div align="center" >
 
-<details align="center"> 
-<h2>⚙️ &nbsp;Extended Skill Set </h2>
+<details align="center"><h2>⚙️ &nbsp;Extended Skill Set </h2>
   <br/>
 
 <table><tr><td valign="top" width="33%">
