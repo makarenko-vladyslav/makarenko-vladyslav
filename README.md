@@ -56,11 +56,11 @@
 
 
 ##📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
   <div align="center>
-    <img src="https://github-readme-stats.vercel.app/api?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 31%; height: 110px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=makarenko-vladyslav&theme=ambient_gradient&hide_border=true" alt="GitHub Streak Stats" style="width: 31%; height: 110px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="width: 31%; height: 110px;"/>    
+    <img src="https://github-readme-stats.vercel.app/api?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 31%; height: 110px; />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=makarenko-vladyslav&theme=ambient_gradient&hide_border=true" alt="GitHub Streak Stats" style="width: 31%; height: 110px;/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="width: 31%; height: 110px;/>    
   </div>
     
 
