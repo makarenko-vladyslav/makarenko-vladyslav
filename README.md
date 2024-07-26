@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/makarich.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makarich.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/makarenko-vladyslav) <p align="end" style="display: inline-block " >[![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/makarich.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makarich.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/makarenko-vladyslav) [![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
 
 
   <h2>:computer: &nbsp;Main tech stack</h2>
