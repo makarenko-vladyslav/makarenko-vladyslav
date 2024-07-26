@@ -28,12 +28,6 @@
 
 <img align="right" height="180" src="https://c.tenor.com/2AL-U__IT1QAAAAC/tenor.gif"  />
 
-###
-
-<img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div align="center">
