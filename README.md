@@ -9,7 +9,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="14426600" data-share-method="host" data-aspect-ratio="1.84971" data-width="100%"><a href="https://tenor.com/view/tobey-maguire-maurice-moss-fire-computer-busy-gif-14426600">Tobey Maguire Maurice Moss GIF</a>from <a href="https://tenor.com/search/tobey+maguire-gifs">Tobey Maguire GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/uk/view/tobey-maguire-maurice-moss-fire-computer-busy-gif-14426600" height="50" />
 
 ###
 
