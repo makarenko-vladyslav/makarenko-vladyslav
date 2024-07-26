@@ -1,5 +1,5 @@
 <div align="center" > <h1> Hi there <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/master/wave.gif" width="30"> </h1> </div>
-<div align="center" > <h3> I’m a Full Stack Developer originally from Ukraine, currently based in the beautiful landscapes of Norway.</h3> </div>
+<div align="start" > <h3> I’m a Full Stack Developer originally from Ukraine, currently based in the beautiful landscapes of Norway.</h3> </div>
 
 <div>
   
