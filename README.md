@@ -29,7 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </details>
 
-[![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <details>
   <summary><h2>🏆 GitHub Trophies:</h2></summary>
@@ -41,3 +40,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
