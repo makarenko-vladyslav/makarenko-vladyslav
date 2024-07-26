@@ -24,8 +24,8 @@
   <summary><h2>📊 GitHub Stats:</h2></summary>
   <br/>
   
-![](https://github-readme-stats.vercel.app/api?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=makarenko-vladyslav&theme=ambient_gradient&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=makarenko-vladyslav&theme=ambient_gradient&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </details>
 
