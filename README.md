@@ -1,10 +1,11 @@
 # 💫 About Me:
-> ## Hello <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/master/wave.gif" width="30"> I’m Vladyslav Makarenko, a Full Stack Developer originally from Ukraine and now based in the beautiful landscapes of Norway. With a passion for crafting dynamic web applications and engaging websites, I thrive in transforming ideas into digital experiences.
+> ## Hello <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/master/wave.gif" width="30"> I’m Vladyslav Makarenko, a Full Stack Developer originally from Ukraine and now based in the beautiful landscapes of Norway. 
 <br>
 
 ### 🚀 What I Do:
-
-I specialize in building robust and responsive web applications that are not only functional but also visually appealing. My work involves a seamless integration of both front-end and back-end technologies to deliver comprehensive solutions.<br><br>I am always excited to embrace new challenges and stay updated with the latest advancements in web development. Let’s create something amazing together!
+I specialize in building robust and responsive web applications and engaging websites, that are not only functional but also visually appealing.
+<br>
+I am always excited to embrace new challenges and stay updated with the latest advancements in web development. <b>Let’s create something amazing together!</b>
 
 
 ## 🌐 Socials:
