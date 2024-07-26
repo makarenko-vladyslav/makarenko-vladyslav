@@ -17,7 +17,8 @@ I specialize in building robust and responsive web applications and websites, th
 </div>
 
 
-
+<div align="center" >
+  
   <h2>:computer: &nbsp;Main tech stack</h2>
   <br/>
 
@@ -27,21 +28,14 @@ I specialize in building robust and responsive web applications and websites, th
  
 </div>
 
+</div>
+
 <div align="center" >
-  
-
-
-
 
 <h2>⚙️ &nbsp;Extended Skill Set </h2>
   <br/>
 
-     
-
-
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
