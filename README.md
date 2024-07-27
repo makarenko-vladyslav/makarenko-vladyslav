@@ -135,4 +135,4 @@
 
 <div>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<p align="center">💻 Check Out My Repos ⬇️ </p>
