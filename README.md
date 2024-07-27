@@ -1,10 +1,11 @@
-# 💫 About Me:
->Hello! I’m Vladyslav Makarenko, a Full Stack Developer originally from Ukraine and now based in the beautiful landscapes of Norway. With a passion for crafting dynamic web applications and engaging websites, I thrive in transforming ideas into digital experiences.<br><br>🚀 What I Do:<br>I specialize in building robust and responsive web applications that are not only functional but also visually appealing. My work involves a seamless integration of both front-end and back-end technologies to deliver comprehensive solutions.<br><br>I am always excited to embrace new challenges and stay updated with the latest advancements in web development. Let’s create something amazing together!
+<div align="center" > <h1> Hi there <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/master/wave.gif" width="30"> </h1> </div>
+<div align="center" > <h3> I’m a Full Stack Developer originally from Ukraine, currently based in the beautiful landscapes of Norway.</h3> </div>
 
+<div>
+  
+> I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/makarich.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makarich.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/makarenko-vladyslav) 
-
+</div>
 
   <h2>:computer: &nbsp;Main tech stack</h2>
   <br/>
