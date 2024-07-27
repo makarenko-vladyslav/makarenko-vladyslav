@@ -20,7 +20,7 @@
 ---
 <div align="center" >
 
- ### :computer: &nbsp;My tech stack
+ ### :computer: &nbsp;<h2> My tech stack </h2>
 
 <br/>
 
