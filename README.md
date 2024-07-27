@@ -1,8 +1,8 @@
-<p align="end">
+<div align="end">
 
 [![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
 
-</p>
+</div>
 
 <div align="center" > <h1> Hi there <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/master/wave.gif" width="30"> </h1> </div>
 
