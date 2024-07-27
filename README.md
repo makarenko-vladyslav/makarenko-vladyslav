@@ -17,8 +17,6 @@
 
 </div>
 
-
-
   <h2>:computer: &nbsp;Main tech stack</h2>
   <br/>
   
@@ -26,7 +24,7 @@
 
 
 
-<<div align="center" >
+<div align="center" >
 
             <h2>&nbsp;Extended Skill Set</h2>
             <br />
