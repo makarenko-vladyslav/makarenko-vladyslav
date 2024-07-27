@@ -17,7 +17,7 @@
 
 </div>
 
----
+
 <div align="center" >
 
  ### <h2> :computer: &nbsp; My tech stack </h2>
@@ -107,7 +107,7 @@
 </div>
 
 <details>
-  <summary><h2>📊 GitHub Stats:</h2></summary>
+  <summary> <h2>📊 GitHub Stats:</h2></summary>
   <br/>
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap; overflow-x: auto; gap: 16px;">
     <img src="https://github-readme-stats.vercel.app/api?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 33%; min-width: 300px; height: 110px;"/>
