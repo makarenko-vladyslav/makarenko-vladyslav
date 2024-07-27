@@ -27,10 +27,11 @@
 <table>
 <tr>
 <td valign="top" width="33%">
-                    
-### Frontend
 
 <div align="center">
+
+### Frontend
+
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -51,10 +52,10 @@
 </div>
 </td>
 <td valign="top" width="33%">
-                    
-### Backend
 
 <div align="center">
+                    
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
@@ -74,10 +75,12 @@
 </div>
 </td>
 <td valign="top" width="33%">
+
+<div align="center">
                     
 ### Other
 
-<div align="center">
+
   
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
