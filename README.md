@@ -19,7 +19,7 @@
 
 <div align="center" >
 
-  <h2>:computer: &nbsp;Main tech stack</h2>
+  <h2>:computer: &nbsp;My tech stack</h2>
 
 <br/>
 
