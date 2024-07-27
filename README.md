@@ -14,9 +14,10 @@
 <div>
   
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBkaWU5djUxdnFuam03YmRqemcya3RrN3BtejB5azNtbTVybTNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xv6eVwkJ7DGjC/giphy.webp" align="right" width="300px" />
-  
-> I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development. I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development.
 
+### I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development.
+  
+> I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development. 
 </div>
 
 <div align="center" >
