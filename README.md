@@ -7,8 +7,7 @@
 <div align="center" > <h1> Hi there <img src="https://raw.githubusercontent.com/makarenko-vladyslav/makarenko-vladyslav/master/wave.gif" width="30"> </h1> </div>
 
 
-
-<div align="center" > <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBkaWU5djUxdnFuam03YmRqemcya3RrN3BtejB5azNtbTVybTNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xv6eVwkJ7DGjC/giphy.webp" align="right" /> <h3> I’m a Full Stack Developer originally from Ukraine, currently based in the beautiful landscapes of Norway.</h3> </div>
+<div align="center" > <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBkaWU5djUxdnFuam03YmRqemcya3RrN3BtejB5azNtbTVybTNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xv6eVwkJ7DGjC/giphy.webp" align="right" width="150px" /> <h3> I’m a Full Stack Developer originally from Ukraine, currently based in the beautiful landscapes of Norway.</h3> </div>
 
 <div>
   
