@@ -71,7 +71,7 @@
                             ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
                         </div>
                     </td>
-                    
+
                     <td valign="top" width="33%">
                         ### Other
 
