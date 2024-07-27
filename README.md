@@ -16,7 +16,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBkaWU5djUxdnFuam03YmRqemcya3RrN3BtejB5azNtbTVybTNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xv6eVwkJ7DGjC/giphy.webp" align="right" width="200px" />
 
 
-> <p> <b> I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. </br>I am always excited to embrace new challenges and stay updated with the latest advancements in web development. </b> </p>
+> <p> <b> I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development. </b> </p>
 </div>
 
 <div align="center" >
@@ -26,6 +26,7 @@
   <a href="mailto:makarenko.vlad.112@gmail.com?subject=Hello%20Vladyslav,%20From%20Github"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/makarenko-vladyslav"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/makarich.dev"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  </br>
   <a href="https://instagram.com/makarich.dev"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/MAKARICH_DEV"><img src="https://internet-lab.ru/sites/internet-lab.ru/files/styles/shirokiy/public/2022-09/telegram.png?itok=KcHIyWA_" height="28px" /></a>
 
