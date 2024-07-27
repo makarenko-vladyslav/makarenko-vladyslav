@@ -26,16 +26,16 @@
 
 <div align="center" >
 
-            <h2> &nbsp; Extended Skill Set</h2>
-            <br/>
+<h2> &nbsp; Extended Skill Set</h2>
+<br/>
 
-            <table>
-                <tr>
-                    <td valign="top" width="33%">
+<table>
+<tr>
+<td valign="top" width="33%">
                     
-                        ### Frontend
+### Frontend
 
-                        <div align="center">
+<div align="center">
                         
 ![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
@@ -46,13 +46,13 @@
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-007FFF.svg?style=flat&logo=Material-UI&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
                             
-                        </div>
-                    </td>
-                    <td valign="top" width="33%">
+</div>
+</td>
+<td valign="top" width="33%">
                     
-                        ### Backend
+### Backend
 
-                        <div align="center">
+<div align="center">
                         
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
                             ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -67,11 +67,11 @@
                             ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
                             ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
                             
-                        </div>
-                    </td>
-                    <td valign="top" width="33%">
+</div>
+</td>
+<td valign="top" width="33%">
                     
-                        ### Other
+### Other
 
 <div align="center">
   
