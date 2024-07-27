@@ -105,8 +105,8 @@
 
 </div>
 
-<details>
-  <summary> <h2>📊 GitHub Stats:</h2></summary>
+
+<h2>📊 GitHub Stats:</h2>
   <br/>
   <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=makarenko-vladyslav&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" style="width: 1fr;  height: 119px;"/>
@@ -116,17 +116,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=makarenko-vladyslav&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
     
   </div>
-</details>
-
 
   <br/>
   
+<div align="end">
 
-
-
-## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
+<div>
+
+<div aling="start">
 
 [![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
+
+</div>
