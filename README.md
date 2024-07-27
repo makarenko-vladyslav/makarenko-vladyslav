@@ -135,4 +135,4 @@
 
 <div>
 
-<p align="center" font-size="24px" >💻 Check Out My Repos ⬇️ </p>
+<p align="center" style="font-size="24px" " >💻 Check Out My Repos ⬇️ </p>
