@@ -26,13 +26,13 @@
 
 <div align="center" >
 
-            <h2>&nbsp;Extended Skill Set</h2>
-            <br />
-
+            <h2> &nbsp; Extended Skill Set</h2>
+            <br/>
 
             <table>
                 <tr>
                     <td valign="top" width="33%">
+                    
                         ### Frontend
 
                         <div align="center">
@@ -42,6 +42,7 @@
                         </div>
                     </td>
                     <td valign="top" width="33%">
+                    
                         ### Backend
 
                         <div align="center">
@@ -62,6 +63,7 @@
                         </div>
                     </td>
                     <td valign="top" width="33%">
+                    
                         ### Other
 
 <div align="center">
