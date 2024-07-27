@@ -17,9 +17,10 @@
 
 </div>
 
+---
 <div align="center" >
 
-  <h2>:computer: &nbsp;My tech stack</h2>
+ ### :computer: &nbsp;My tech stack
 
 <br/>
 
