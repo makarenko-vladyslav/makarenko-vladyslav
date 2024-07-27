@@ -7,6 +7,16 @@
 
 </div>
 
+<div align="center" >
+
+<b>Let’s create something amazing together 🚀</b>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/makarich.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makarich.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/makarenko-vladyslav)
+
+</div>
+
   <h2>:computer: &nbsp;Main tech stack</h2>
   <br/>
   
