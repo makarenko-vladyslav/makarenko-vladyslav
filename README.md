@@ -4,9 +4,11 @@
 
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=4000&pause=550&color=039CF7&center=true&vCenter=true&width=1200&height=60&lines=Hi%2C+There+%F0%9F%91%8B;I%60am+Vladyslav+Makarenko+a+Full+Stack+Developer;originally+from+Ukraine%2C+currently+based+in+the+beautiful+landscapes+of+Norway." alt="Typing SVG" /></a>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=4000&pause=550&color=039CF7&center=true&vCenter=true&width=1000&height=60&lines=Hi+there+%F0%9F%91%8B+;I%60am+Vladyslav+Makarenko+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;A+Full+Stack+Developer+originally+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Currently+based+in+the+beautiful+landscapes+of+Norway+%F0%9F%87%B3%F0%9F%87%B4)](https://git.io/typing-svg)
 
+</div>
 
 <div align="center" > <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBkaWU5djUxdnFuam03YmRqemcya3RrN3BtejB5azNtbTVybTNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xv6eVwkJ7DGjC/giphy.webp" align="right" width="200px" /> <h3> I’m a Full Stack Developer originally from Ukraine, currently based in the beautiful landscapes of Norway.</h3> </div>
 
