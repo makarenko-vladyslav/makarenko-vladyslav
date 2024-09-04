@@ -30,7 +30,6 @@
   <a href="https://instagram.com/makarich.dev"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/makarich.dev"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-
 </div>
 
 <div align="center" >
