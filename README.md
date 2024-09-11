@@ -1,6 +1,6 @@
 <div align="right">
 
-[![wakatime](https://wakatime.com/badge/user/018bd96e-68c8-4fc2-90bb-144d017d754f.svg)](https://wakatime.com/@018bd96e-68c8-4fc2-90bb-144d017d754f)
+![wakatime](https://wakatime.com/badge/user/018bd96e-68c8-4fc2-90bb-144d017d754f.svg)
 
 [![](https://visitcount.itsvg.in/api?id=makarenko-vladyslav&icon=7&color=6)](https://visitcount.itsvg.in)
 
