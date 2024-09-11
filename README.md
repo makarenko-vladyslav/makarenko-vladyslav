@@ -15,19 +15,13 @@
 <table>
   <tr>
      <td width="180px">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBkaWU5djUxdnFuam03YmRqemcya3RrN3BtejB5azNtbTVybTNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xv6eVwkJ7DGjC/giphy.webp"  />
+      <img src="https://i.giphy.com/xv6eVwkJ7DGjC.webp"  />
     </td>
     <td align="center">
       I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development.
     </td>
   </tr>
 </table>
-
-
-<div>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBkaWU5djUxdnFuam03YmRqemcya3RrN3BtejB5azNtbTVybTNmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xv6eVwkJ7DGjC/giphy.webp" align="left" width="180">
-  <p> I specialize in building robust and responsive web applications and websites, that are not only functional but also visually appealing. I am always excited to embrace new challenges and stay updated with the latest advancements in web development.</p>
-</div>
 
 
 <div align="center" >
@@ -42,6 +36,7 @@
   <a href="https://www.facebook.com/makarich.dev"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
+
 
 <div align="center" >
 
