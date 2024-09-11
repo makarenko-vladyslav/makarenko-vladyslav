@@ -23,24 +23,9 @@
   </tr>
 </table>
 
-
 <div align="center" >
 
-<b>Let’s create something amazing together 🚀</b>
 
-  <a href="mailto:makarenko.vlad.112@gmail.com?subject=Hello%20Vladyslav,%20From%20Github"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/makarenko-vladyslav"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/MAKARICH_DEV"><img src="https://internet-lab.ru/sites/internet-lab.ru/files/styles/shirokiy/public/2022-09/telegram.png?itok=KcHIyWA_" height="28px" /></a>
-  </br>
-  <a href="https://instagram.com/makarich.dev"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/makarich.dev"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
-</div>
-
-
-<div align="center" >
-
-<br/>
 
 <table>
 <tr>
@@ -120,6 +105,22 @@
 </table>
 
 </div>
+
+<br/>
+
+<div align="center" >
+
+<b>Let’s create something amazing together 🚀</b>
+
+  <a href="mailto:makarenko.vlad.112@gmail.com?subject=Hello%20Vladyslav,%20From%20Github"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/makarenko-vladyslav"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/MAKARICH_DEV"><img src="https://internet-lab.ru/sites/internet-lab.ru/files/styles/shirokiy/public/2022-09/telegram.png?itok=KcHIyWA_" height="28px" /></a>
+  </br>
+  <a href="https://instagram.com/makarich.dev"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/makarich.dev"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+</div>
+
 
 <h2>📊 GitHub Stats:</h2>
   <br/>
