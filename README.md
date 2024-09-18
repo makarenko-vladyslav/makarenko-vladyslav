@@ -6,6 +6,7 @@
 
 </div>
 
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&duration=4000&pause=550&color=039CF7&center=true&vCenter=true&width=1000&height=60&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Vladyslav+Makarenko+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;A+Full+Stack+Developer+originally+from+Ukraine+%F0%9F%87%BA%F0%9F%87%A6;Currently+based+in+the+beautiful+landscapes+of+Norway+%F0%9F%87%B3%F0%9F%87%B4)](https://git.io/typing-svg)
