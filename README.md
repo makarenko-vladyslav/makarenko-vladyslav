@@ -31,6 +31,7 @@
 
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase"/></code>
 	<code><img width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
@@ -42,7 +43,8 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm"/></code>
+	
+
 
 </div>
 
@@ -103,6 +105,7 @@
 <h3>Backend</h3> 
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Axios](https://img.shields.io/badge/Axios-%23404d59.svg?style=flat&logo=axios&logoColor=white)
@@ -112,6 +115,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=flat&logo=mongoose&logoColor=white)
 ![Mikrotjenester](https://img.shields.io/badge/Microservices-%23404d59.svg?style=flat&logo=express&logoColor=white)
+
 
 
 <h3>DevOps & Deployment</h3> 
