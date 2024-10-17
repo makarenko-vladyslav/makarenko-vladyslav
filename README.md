@@ -50,7 +50,7 @@
 
 <br/>
 
-<h2 align="left" style="display: inline;">⚙️ Full skill set:</h2>
+<h2 align="left" style="display: inline;">⚙️ Full skills set:</h2>
 <details style="display: inline;">
   <summary>Click to view</summary>
 
