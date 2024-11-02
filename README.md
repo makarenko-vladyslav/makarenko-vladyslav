@@ -116,7 +116,6 @@
 ![OAuth2](https://img.shields.io/badge/OAuth2-%23404d59.svg?style=flat&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=flat&logo=mongoose&logoColor=white)
-![Mikrotjenester](https://img.shields.io/badge/Microservices-%23404d59.svg?style=flat&logo=express&logoColor=white)
 
 
 
@@ -135,7 +134,6 @@
 <h3>Databases</h3> 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%234ea94b.svg?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
