@@ -163,7 +163,7 @@ async function buildMiscSection() {
 
     const quoteWrapper = `
 <svg width="100%" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="transparent" />
+  <rect width="100%" height="100%" fill="#000000" />
   <g transform="translate(250, 20)">
     <svg width="700" height="150" viewBox="0 0 700 150">
       ${quoteCleaned}

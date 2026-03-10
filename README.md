@@ -15,7 +15,6 @@
 
   <img src="./assets/faq-v2.svg?v=8" alt="FAQ" width="100%" />
   <img src="./assets/cta-v2.svg?v=8" alt="Call to Action" width="100%" />
-  <img src="./assets/compiled-quote.svg?v=5" alt="Developer Quote" width="100%" />
 </div>
 
 <div align="center">
@@ -23,4 +22,8 @@
   --><a href="https://linkedin.com/in/vladyslav-makarenko"><img src="./assets/link-linkedin-v2.svg?v=8" width="25%" /></a><!--
   --><a href="https://t.me/makarich14"><img src="./assets/link-telegram-v2.svg?v=8" width="25%" /></a><!--
   --><a href="https://www.facebook.com/makarich.dev/"><img src="./assets/link-facebook-v2.svg?v=8" width="25%" /></a>
+</div>
+
+<div align="center">
+  <img src="./assets/compiled-quote.svg?v=6" alt="Developer Quote" width="100%" />
 </div>
