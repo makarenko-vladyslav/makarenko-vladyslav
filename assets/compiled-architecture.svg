@@ -27,7 +27,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vladyslav Makarenko's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 25, Total PRs: 46, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 29, Total PRs: 46, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -91,7 +91,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 206.30164455293553;
+        stroke-dashoffset: 205.8705971437004;
       }
     }
   
@@ -160,7 +160,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >25</text>
+      >29</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -442,7 +442,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="76.89"
+          width="74.68"
           height="8"
           fill="#3178c6"
         />
@@ -450,9 +450,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="76.89"
+          x="74.68"
           y="0"
-          width="66.09"
+          width="70.33"
           height="8"
           fill="#f1e05a"
         />
@@ -460,9 +460,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="142.98000000000002"
+          x="145.01"
           y="0"
-          width="54.7"
+          width="54.18"
           height="8"
           fill="#e34c26"
         />
@@ -470,9 +470,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="197.68"
+          x="199.19"
           y="0"
-          width="52.32"
+          width="50.81"
           height="8"
           fill="#663399"
         />
@@ -483,28 +483,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 30.76%
+        TypeScript 29.87%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 26.44%
+        JavaScript 28.13%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 21.88%
+        HTML 21.67%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 20.93%
+        CSS 20.32%
       </text>
     </g>
   </g></g>
