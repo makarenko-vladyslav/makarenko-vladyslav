@@ -1,0 +1,285 @@
+<svg width="100%" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&amp;family=Inter:wght@400;500;600&amp;display=swap');
+      
+      .bg { fill: #050505; }
+      
+      .section-title {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-size: 16px;
+        font-weight: 700;
+        fill: #E3FF00;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+      }
+      
+      .highlight { fill: #E3FF00; }
+      
+      .section-label {
+        font-family: 'Space Grotesk', system-ui, sans-serif;
+        font-size: 14px;
+        fill: #888888;
+        letter-spacing: 6px;
+        font-weight: 600;
+      }
+      
+      .card {
+        fill: url(#card-grad);
+        stroke: rgba(227, 255, 0, 0.15);
+        stroke-width: 1;
+        rx: 16px;
+      }
+      
+      .role { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 20px; font-weight: 700; fill: #ffffff; }
+      .company { font-family: 'Inter', system-ui, sans-serif; font-size: 14px; font-weight: 600; fill: #E3FF00; letter-spacing: 1px;}
+      .date { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 16px; font-weight: 600; fill: #A0A0A0; letter-spacing: 1px; }
+      .desc { font-family: 'Inter', system-ui, sans-serif; font-size: 14px; font-weight: 400; fill: #888888; line-height: 1.5; }
+      
+      .line {
+        stroke: url(#line-grad);
+        stroke-width: 2;
+      }
+      
+      .node-outer {
+        fill: #050505;
+        stroke: #333333;
+        stroke-width: 2;
+      }
+      
+      .node-inner {
+        fill: #E3FF00;
+        animation: pulse-node 2s infinite;
+      }
+
+      .node-glow {
+        fill: #E3FF00;
+        filter: blur(8px);
+        opacity: 0.5;
+        animation: pulse-glow 2s infinite;
+      }
+      
+      .animated {
+        opacity: 0;
+        animation: fadeInUp 0.8s ease-out forwards;
+      }
+      
+      @keyframes fadeInUp {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+      
+      @keyframes pulse-node {
+        0% { transform: scale(0.98); opacity: 0.9; }
+        50% { transform: scale(1.05); opacity: 1; text-shadow: 0 0 5px rgba(227,255,0,0.5); }
+        100% { transform: scale(0.98); opacity: 0.9; }
+      }
+
+      @keyframes pulse-glow {
+        0% { opacity: 0.15; transform: scale(1); }
+        50% { opacity: 0.35; transform: scale(1.15); }
+        100% { opacity: 0.15; transform: scale(1); }
+      }
+      
+      .grid-line {
+        stroke: rgba(255, 255, 255, 0.03);
+        stroke-width: 1;
+      }
+
+      .d-1 { animation-delay: 0.1s; }
+      .d-2 { animation-delay: 0.2s; }
+      .d-4 { animation-delay: 0.4s; }
+      .d-6 { animation-delay: 0.6s; }
+      .d-8 { animation-delay: 0.8s; }
+      .d-10 { animation-delay: 1.0s; }
+      .d-12 { animation-delay: 1.2s; }
+      .d-14 { animation-delay: 1.4s; }
+      .d-16 { animation-delay: 1.6s; }
+    </style>
+    
+    <linearGradient id="line-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#333333" stop-opacity="0" />
+      <stop offset="10%" stop-color="#E3FF00" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#333333" stop-opacity="1" />
+      <stop offset="90%" stop-color="#E3FF00" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#333333" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121212" />
+      <stop offset="100%" stop-color="#050505" />
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid-line" />
+    </pattern>
+
+    <radialGradient id="bg-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#E3FF00" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#050505" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" />
+  <rect width="100%" height="100%" fill="url(#grid)" />
+  <circle cx="600" cy="450" r="700" fill="url(#bg-glow)" />
+
+  <!-- Title -->
+  <g transform="translate(100, 80)">
+    <g class="animated d-1">
+      <rect x="-10" y="-12" width="4" height="16" fill="#E3FF00" rx="2" />
+      <text x="0" y="0" class="section-title">CAREER JOURNEY</text>
+    </g>
+  </g>
+
+  <!-- Central Axis -->
+  <line x1="600" y1="120" x2="600" y2="850" class="line" />
+
+  <!-- ==================== EXPERIENCE ==================== -->
+  <g transform="translate(0, 0)">
+    <g class="animated d-2">
+      <rect x="520" y="105" width="160" height="30" rx="15" fill="#0A0A0A" stroke="#E3FF00" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="600" y="125" class="section-label" text-anchor="middle">EXPERIENCE</text>
+    </g>
+  </g>
+
+  <!-- Item 1: 2025 -->
+  <g transform="translate(600, 190)">
+    <g class="animated d-4">
+      <!-- Left Card -->
+      <g transform="translate(-400, -45)">
+        <rect width="360" height="90" class="card" />
+        <text x="330" y="35" text-anchor="end" class="role">Freelance Architect</text>
+        <text x="330" y="60" text-anchor="end" class="company">MAKARICH.DEV</text>
+        <text x="330" y="80" text-anchor="end" class="desc">SaaS architecture &amp; CRM integrations</text>
+        <line x1="360" y1="45" x2="380" y2="45" stroke="#333333" stroke-width="1" />
+      </g>
+      
+      <!-- Right text -->
+      <text x="40" y="6" text-anchor="start" class="date">2025 — PRESENT</text>
+      <line x1="20" y1="0" x2="30" y2="0" stroke="#333333" stroke-width="1" />
+
+      <!-- Node -->
+      <circle cx="0" cy="0" r="14" class="node-glow" />
+      <circle cx="0" cy="0" r="7" class="node-outer" />
+      <circle cx="0" cy="0" r="4" class="node-inner" />
+    </g>
+  </g>
+
+  <!-- Item 2: 2022-2025 -->
+  <g transform="translate(600, 300)">
+    <g class="animated d-6">
+      <!-- Left text -->
+      <text x="-40" y="6" text-anchor="end" class="date">2022 — 2025</text>
+      <line x1="-20" y1="0" x2="-30" y2="0" stroke="#333333" stroke-width="1" />
+      
+      <!-- Right Card -->
+      <g transform="translate(40, -45)">
+        <rect width="360" height="90" class="card" />
+        <text x="30" y="35" text-anchor="start" class="role">Product Designer</text>
+        <text x="30" y="60" text-anchor="start" class="company">WANT IT.</text>
+        <text x="30" y="80" text-anchor="start" class="desc">Reduced cart abandonment by 25%</text>
+        <line x1="-20" y1="45" x2="0" y2="45" stroke="#333333" stroke-width="1" />
+      </g>
+
+      <circle cx="0" cy="0" r="14" class="node-glow" />
+      <circle cx="0" cy="0" r="7" class="node-outer" />
+      <circle cx="0" cy="0" r="4" class="node-inner" />
+    </g>
+  </g>
+
+  <!-- Item 3: 2018-2022 -->
+  <g transform="translate(600, 410)">
+    <g class="animated d-8">
+      <!-- Left Card -->
+      <g transform="translate(-400, -45)">
+        <rect width="360" height="90" class="card" />
+        <text x="330" y="35" text-anchor="end" class="role">UX/UI Designer</text>
+        <text x="330" y="60" text-anchor="end" class="company">BRAND HOUSE</text>
+        <text x="330" y="80" text-anchor="end" class="desc">Design system overhaul, +30% retention</text>
+        <line x1="360" y1="45" x2="380" y2="45" stroke="#333333" stroke-width="1" />
+      </g>
+      
+      <!-- Right text -->
+      <text x="40" y="6" text-anchor="start" class="date">2018 — 2022</text>
+      <line x1="20" y1="0" x2="30" y2="0" stroke="#333333" stroke-width="1" />
+
+      <circle cx="0" cy="0" r="14" class="node-glow" />
+      <circle cx="0" cy="0" r="7" class="node-outer" />
+      <circle cx="0" cy="0" r="4" class="node-inner" />
+    </g>
+  </g>
+
+  <!-- Item 4: 2017-2022 -->
+  <g transform="translate(600, 520)">
+    <g class="animated d-10">
+      <!-- Left text -->
+      <text x="-40" y="6" text-anchor="end" class="date">2017 — 2022</text>
+      <line x1="-20" y1="0" x2="-30" y2="0" stroke="#333333" stroke-width="1" />
+      
+      <!-- Right Card -->
+      <g transform="translate(40, -45)">
+        <rect width="360" height="90" class="card" />
+        <text x="30" y="35" text-anchor="start" class="role">Founder &amp; SEO</text>
+        <text x="30" y="60" text-anchor="start" class="company">STREETZ</text>
+        <text x="30" y="80" text-anchor="start" class="desc">Scaled organic e-commerce traffic x300%</text>
+        <line x1="-20" y1="45" x2="0" y2="45" stroke="#333333" stroke-width="1" />
+      </g>
+
+      <circle cx="0" cy="0" r="14" class="node-glow" />
+      <circle cx="0" cy="0" r="7" class="node-outer" />
+      <circle cx="0" cy="0" r="4" class="node-inner" />
+    </g>
+  </g>
+
+  <!-- ==================== EDUCATION ==================== -->
+  <g transform="translate(0, 0)">
+    <g class="animated d-12">
+      <rect x="520" y="625" width="160" height="30" rx="15" fill="#0A0A0A" stroke="#E3FF00" stroke-opacity="0.3" stroke-width="1"/>
+      <text x="600" y="645" class="section-label" text-anchor="middle">EDUCATION</text>
+    </g>
+  </g>
+
+  <!-- Edu 1: 2022-2024 -->
+  <g transform="translate(600, 710)">
+    <g class="animated d-14">
+      <!-- Left Card -->
+      <g transform="translate(-400, -45)">
+        <rect width="360" height="90" class="card" />
+        <text x="330" y="45" text-anchor="end" class="role">B.S. Software Eng</text>
+        <text x="330" y="70" text-anchor="end" class="company">NEOVERSITY</text>
+        <line x1="360" y1="45" x2="380" y2="45" stroke="#333333" stroke-width="1" />
+      </g>
+      
+      <!-- Right text -->
+      <text x="40" y="6" text-anchor="start" class="date">2022 — 2024</text>
+      <line x1="20" y1="0" x2="30" y2="0" stroke="#333333" stroke-width="1" />
+
+      <circle cx="0" cy="0" r="14" class="node-glow" />
+      <circle cx="0" cy="0" r="7" class="node-outer" />
+      <circle cx="0" cy="0" r="4" class="node-inner" />
+    </g>
+  </g>
+
+  <!-- Edu 2: 2020-2022 -->
+  <g transform="translate(600, 820)">
+    <g class="animated d-16">
+      <!-- Left text -->
+      <text x="-40" y="6" text-anchor="end" class="date">2020 — 2022</text>
+      <line x1="-20" y1="0" x2="-30" y2="0" stroke="#333333" stroke-width="1" />
+      
+      <!-- Right Card -->
+      <g transform="translate(40, -45)">
+        <rect width="360" height="90" class="card" />
+        <text x="30" y="45" text-anchor="start" class="role">M.S. Product Design</text>
+        <text x="30" y="70" text-anchor="start" class="company">NEOVERSITY</text>
+        <line x1="-20" y1="45" x2="0" y2="45" stroke="#333333" stroke-width="1" />
+      </g>
+
+      <circle cx="0" cy="0" r="14" class="node-glow" />
+      <circle cx="0" cy="0" r="7" class="node-outer" />
+      <circle cx="0" cy="0" r="4" class="node-inner" />
+    </g>
+  </g>
+
+</svg>

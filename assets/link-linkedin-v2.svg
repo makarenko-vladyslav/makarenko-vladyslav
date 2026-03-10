@@ -1,0 +1,21 @@
+<svg width="240" height="60" viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600&amp;display=swap');
+      .wrapper { animation: float 4s ease-in-out infinite; }
+      .bg { fill: #050505; stroke: rgba(227, 255, 0, 0.2); stroke-width: 1; transition: all 0.3s ease; }
+      .wrapper:hover .bg { stroke: #E3FF00; fill: #0a0a0a; }
+      .text { font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600; fill: #ffffff; letter-spacing: 4px; text-anchor: middle;}
+      .accent { fill: #E3FF00; animation: pulse 2s infinite; }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
+      @keyframes pulse { 0%, 100% { filter: drop-shadow(0 0 2px #E3FF00); } 50% { filter: drop-shadow(0 0 8px #E3FF00); } }
+    </style>
+  </defs>
+  <g class="wrapper">
+    <rect width="220" height="50" x="10" y="5" rx="25" class="bg" />
+    <g transform="translate(120, 30)">
+      <circle cx="-55" cy="0" r="4" class="accent" />
+      <text x="12" y="5" class="text">LINKEDIN</text>
+    </g>
+  </g>
+</svg>

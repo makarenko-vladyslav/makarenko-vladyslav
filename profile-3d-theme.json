@@ -1,0 +1,11 @@
+{
+  "theme": {
+    "background": "#000000",
+    "text": "#ffffff",
+    "level0": "#111111",
+    "level1": "#2c3300",
+    "level2": "#5a6600",
+    "level3": "#889900",
+    "level4": "#E3FF00"
+  }
+}

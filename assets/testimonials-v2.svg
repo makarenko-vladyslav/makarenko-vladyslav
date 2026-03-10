@@ -1,0 +1,110 @@
+<svg width="100%" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&amp;family=Inter:ital,wght@0,400;0,600;1,400&amp;display=swap');
+      
+      .bg { fill: #000000; }
+      
+      .section-label { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 14px; font-weight: 700; fill: #E3FF00; letter-spacing: 4px; text-transform: uppercase; }
+      
+      .card-bg { fill: #050505; stroke: rgba(227, 255, 0, 0.1); stroke-width: 1; rx: 16px; }
+      .quote-mark { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 80px; fill: rgba(227, 255, 0, 0.1); font-weight: 700; }
+      
+      .quote-text { font-family: 'Inter', system-ui, sans-serif; font-style: italic; font-size: 16px; font-weight: 400; fill: #ffffff; line-height: 1.6; }
+      .client-name { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 16px; font-weight: 700; fill: #E3FF00; letter-spacing: 1px; }
+      .client-role { font-family: 'Inter', system-ui, sans-serif; font-size: 14px; font-weight: 400; fill: #888888; }
+      
+      .animated { opacity: 0; animation: fadeInUp 0.8s ease-out forwards; }
+      .d-1 { animation-delay: 0.1s; }
+      .d-2 { animation-delay: 0.3s; }
+      .d-3 { animation-delay: 0.5s; }
+      
+      @keyframes fadeInUp {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Section Label -->
+  <g transform="translate(100, 60)">
+    <g class="animated d-1">
+      <rect x="-10" y="-10" width="4" height="14" fill="#E3FF00" rx="2" />
+      <text x="0" y="0" class="section-label">CLIENT IMPACT</text>
+    </g>
+  </g>
+
+  <!-- Testimonial 1 -->
+  <g transform="translate(100, 120)">
+    <g class="animated d-2">
+      <rect width="480" height="200" class="card-bg" />
+      <text x="20" y="70" class="quote-mark">"</text>
+      
+      <text x="60" y="50" class="quote-text">Vladyslav completely re-architected </text>
+      <text x="60" y="75" class="quote-text">our platform. The new infrastructure</text>
+      <text x="60" y="100" class="quote-text">handles 5x the traffic with zero downtime.</text>
+      <text x="60" y="125" class="quote-text">An absolute top-tier engineer.</text>
+      
+      <line x1="60" y1="150" x2="80" y2="150" stroke="#333333" stroke-width="1" />
+      
+      <text x="60" y="175" class="client-name">Tech Startup MVP</text>
+      <text x="230" y="175" class="client-role">/ Scaled to $1M ARR</text>
+    </g>
+  </g>
+
+  <!-- Testimonial 2 -->
+  <g transform="translate(620, 120)">
+    <g class="animated d-3">
+      <rect width="480" height="200" class="card-bg" />
+      <text x="20" y="70" class="quote-mark">"</text>
+      
+      <text x="60" y="50" class="quote-text">The level of polish in UI/UX combined</text>
+      <text x="60" y="75" class="quote-text">with deep technical knowledge is rare.</text>
+      <text x="60" y="100" class="quote-text">He didn't just write code, he delivered</text>
+      <text x="60" y="125" class="quote-text">a massive boost to our conversion rates.</text>
+      
+      <line x1="60" y1="150" x2="80" y2="150" stroke="#333333" stroke-width="1" />
+      
+      <text x="60" y="175" class="client-name">E-Commerce Brand</text>
+      <text x="230" y="175" class="client-role">/ +30% Retention</text>
+    </g>
+  </g>
+
+  <!-- Testimonial 3 -->
+  <g transform="translate(100, 340)">
+    <g class="animated d-3">
+      <rect width="480" height="200" class="card-bg" />
+      <text x="20" y="70" class="quote-mark">"</text>
+      
+      <text x="60" y="50" class="quote-text">He took our messy legacy codebase</text>
+      <text x="60" y="75" class="quote-text">and turned it into a sleek, modular</text>
+      <text x="60" y="100" class="quote-text">masterpiece. The speed of delivery and</text>
+      <text x="60" y="125" class="quote-text">code quality exceeded all expectations.</text>
+      
+      <line x1="60" y1="150" x2="80" y2="150" stroke="#333333" stroke-width="1" />
+      
+      <text x="60" y="175" class="client-name">Web3 Startup</text>
+      <text x="230" y="175" class="client-role">/ Zero Technical Debt</text>
+    </g>
+  </g>
+
+  <!-- Testimonial 4 -->
+  <g transform="translate(620, 340)">
+    <g class="animated d-3">
+      <rect width="480" height="200" class="card-bg" />
+      <text x="20" y="70" class="quote-mark">"</text>
+      
+      <text x="60" y="50" class="quote-text">Working with Vladyslav is a game</text>
+      <text x="60" y="75" class="quote-text">changer. His ability to foresee</text>
+      <text x="60" y="100" class="quote-text">architectural bottlenecks saved us</text>
+      <text x="60" y="125" class="quote-text">months of development time.</text>
+      
+      <line x1="60" y1="150" x2="80" y2="150" stroke="#333333" stroke-width="1" />
+      
+      <text x="60" y="175" class="client-name">FinTech Founder</text>
+      <text x="230" y="175" class="client-role">/ Series A Funded</text>
+    </g>
+  </g>
+</svg>

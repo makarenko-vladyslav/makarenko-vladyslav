@@ -1,0 +1,74 @@
+<svg width="100%" viewBox="0 0 1200 650" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&amp;family=Inter:wght@400;500;600&amp;display=swap');
+      
+      .bg { fill: #000000; }
+      
+      .section-label { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 14px; font-weight: 700; fill: #E3FF00; letter-spacing: 4px; text-transform: uppercase; }
+      
+      .q-text { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 24px; font-weight: 700; fill: #ffffff; letter-spacing: -0.5px; }
+      .a-text { font-family: 'Inter', system-ui, sans-serif; font-size: 16px; font-weight: 400; fill: #aaaaaa; line-height: 1.6; }
+      
+      .divider { stroke: #222222; stroke-width: 1; }
+      
+      .plus-icon { font-family: 'Space Grotesk', system-ui, sans-serif; font-size: 24px; font-weight: 700; fill: #E3FF00; }
+
+      .animated { opacity: 0; animation: fadeInUp 0.8s ease-out forwards; }
+      .d-1 { animation-delay: 0.1s; }
+      .d-2 { animation-delay: 0.2s; }
+      .d-3 { animation-delay: 0.4s; }
+      .d-4 { animation-delay: 0.6s; }
+      
+      @keyframes fadeInUp {
+        0% { opacity: 0; transform: translateY(20px); }
+        100% { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Section Label -->
+  <g transform="translate(100, 60)">
+    <g class="animated d-1">
+      <rect x="-10" y="-10" width="4" height="14" fill="#E3FF00" rx="2" />
+      <text x="0" y="0" class="section-label">FREQUENTLY ASKED QUESTIONS</text>
+    </g>
+  </g>
+
+  <g transform="translate(150, 150)">
+    <!-- FAQ 1 -->
+    <g transform="translate(0, 0)">
+      <g class="animated d-2">
+        <text x="0" y="20" class="plus-icon">+</text>
+        <text x="40" y="20" class="q-text">How fast can we start?</text>
+        <text x="40" y="55" class="a-text">I typically book projects 2-3 weeks in advance. Once started,</text>
+        <text x="40" y="80" class="a-text">a high-quality MVP deployment takes about 4-6 weeks.</text>
+        <line x1="0" y1="120" x2="900" y2="120" class="divider" />
+      </g>
+    </g>
+
+    <!-- FAQ 2 -->
+    <g transform="translate(0, 160)">
+      <g class="animated d-3">
+        <text x="0" y="20" class="plus-icon">+</text>
+        <text x="40" y="20" class="q-text">Do you design AND code?</text>
+        <text x="40" y="55" class="a-text">Yes. I provide end-to-end service from Figma wireframes to full-stack</text>
+        <text x="40" y="80" class="a-text">Next.js deployment. No hand-offs, zero information loss.</text>
+        <line x1="0" y1="120" x2="900" y2="120" class="divider" />
+      </g>
+    </g>
+
+    <!-- FAQ 3 -->
+    <g transform="translate(0, 320)">
+      <g class="animated d-4">
+        <text x="0" y="20" class="plus-icon">+</text>
+        <text x="40" y="20" class="q-text">Do you work with existing teams?</text>
+        <text x="40" y="55" class="a-text">Absolutely. I often integrate as a fractional Architect/Designer to</text>
+        <text x="40" y="80" class="a-text">accelerate internal product teams and establish premium design systems.</text>
+        <line x1="0" y1="120" x2="900" y2="120" class="divider" />
+      </g>
+    </g>
+  </g>
+</svg>
