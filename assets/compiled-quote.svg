@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Just because you've implemented something doesn't mean you understand it.</h3>
-          <p>- Brian Cantwell Smith</p>
+          <h3>If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.</h3>
+          <p>- Linus Torvalds</p>
         </div>
       </div>
     </foreignObject>
