@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>There are only two kinds of languages: the ones people complain about and the ones nobody uses.</h3>
-          <p>- Bjarne Stroustrup</p>
+          <h3>Beware of bugs in the above code; I have only proved it correct, not tried it.</h3>
+          <p>- Donald Knuth</p>
         </div>
       </div>
     </foreignObject>
