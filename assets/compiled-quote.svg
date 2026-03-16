@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide.</h3>
-          <p>- Martin Fowler</p>
+          <h3>The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.</h3>
+          <p>- Joshua Bloch</p>
         </div>
       </div>
     </foreignObject>
