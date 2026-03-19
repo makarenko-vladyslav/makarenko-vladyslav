@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>When in doubt, leave it out.</h3>
-          <p>- Joshua Bloch</p>
+          <h3>The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects.</h3>
+          <p>- Fred Brooks</p>
         </div>
       </div>
     </foreignObject>
