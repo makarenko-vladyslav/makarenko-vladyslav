@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.</h3>
-          <p>- L. Peter Deutsch</p>
+          <h3>Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
