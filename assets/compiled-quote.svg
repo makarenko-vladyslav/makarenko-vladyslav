@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.</h3>
-          <p>- Fred Brooks</p>
+          <h3>Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.</h3>
+          <p>- Ken Thompson</p>
         </div>
       </div>
     </foreignObject>
