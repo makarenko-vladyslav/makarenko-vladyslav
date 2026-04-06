@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>A beautiful program is like a beautiful theorem: It does the job elegantly.</h3>
-          <p>- Butler Lampson</p>
+          <h3>There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.</h3>
+          <p>- Marijn Haverbeke</p>
         </div>
       </div>
     </foreignObject>
