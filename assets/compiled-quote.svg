@@ -69,9 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>I think the best way to make JavaScript better would be to
-make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.</h3>
-          <p>- Douglas Crockford</p>
+          <h3>Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.</h3>
+          <p>- Marijn Haverbeke</p>
         </div>
       </div>
     </foreignObject>
