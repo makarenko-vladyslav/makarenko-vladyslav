@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.</h3>
-          <p>- Fred Brooks</p>
+          <h3>Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.</h3>
+          <p>- Edsger W. Dijkstra</p>
         </div>
       </div>
     </foreignObject>
