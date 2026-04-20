@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Less code equals less bugs.</h3>
-          <p>- Kevlin Henney</p>
+          <h3>A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.</h3>
+          <p>- Leslie Lamport</p>
         </div>
       </div>
     </foreignObject>
