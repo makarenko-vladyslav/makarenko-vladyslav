@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.</h3>
-          <p>- Michael Stal</p>
+          <h3>Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.</h3>
+          <p>- Edsger W. Dijkstra</p>
         </div>
       </div>
     </foreignObject>
