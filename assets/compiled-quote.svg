@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.</h3>
-          <p>- Edsger W. Dijkstra</p>
+          <h3>The proper use of comments is to compensate for our failure to express ourself in code.</h3>
+          <p>- Robert C. Martin</p>
         </div>
       </div>
     </foreignObject>
