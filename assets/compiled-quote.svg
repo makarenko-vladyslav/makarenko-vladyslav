@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</h3>
-          <p>- Fred Brooks</p>
+          <h3>The act of describing a program in unambiguous detail and the act of programming are one and the same.</h3>
+          <p>- Kevlin Henney</p>
         </div>
       </div>
     </foreignObject>
