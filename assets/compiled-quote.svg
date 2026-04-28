@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better.</h3>
-          <p>- Marijn Haverbeke</p>
+          <h3>A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
