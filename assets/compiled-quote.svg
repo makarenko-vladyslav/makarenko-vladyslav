@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way.</h3>
-          <p>- Richard Hamming</p>
+          <h3>Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
