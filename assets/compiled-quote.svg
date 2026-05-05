@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>When in doubt, use brute force.</h3>
-          <p>- Ken Thompson</p>
+          <h3>If you have a procedure with 10 parameters, you probably missed some.</h3>
+          <p>- Alan Perlis</p>
         </div>
       </div>
     </foreignObject>
