@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging.</h3>
-          <p>- Douglas Crockford</p>
+          <h3>The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.</h3>
+          <p>- Harlan Mills</p>
         </div>
       </div>
     </foreignObject>
