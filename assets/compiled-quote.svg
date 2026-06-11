@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Everything should be made as simple as possible. But to do that you have to master complexity.</h3>
-          <p>- Butler Lampson</p>
+          <h3>The more code you have, the more places there are for bugs to hide.</h3>
+          <p>- Rich Skrenta</p>
         </div>
       </div>
     </foreignObject>
