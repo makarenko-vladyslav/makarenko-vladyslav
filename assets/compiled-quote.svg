@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Everything should be made as simple as possible. But to do that you have to master complexity.</h3>
-          <p>- Butler Lampson</p>
+          <h3>When there is no type hierarchy you don’t have to manage the type hierarchy.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
