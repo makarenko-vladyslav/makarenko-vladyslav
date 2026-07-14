@@ -27,7 +27,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vladyslav Makarenko's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 213, Total PRs: 46, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 224, Total PRs: 46, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -91,7 +91,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 191.94530555818545;
+        stroke-dashoffset: 191.24822437086715;
       }
     }
   
@@ -160,7 +160,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >213</text>
+      >224</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -253,7 +253,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#ffffff' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        1,863
+                        1,890
                     </text>
                 </g>
 
@@ -282,7 +282,7 @@
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#888888' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Jul 13
+                        Jul 13 - Jul 14
                     </text>
                 </g>
 
@@ -299,7 +299,7 @@
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#e3ff00' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        1
+                        2
                     </text>
                 </g>
 
@@ -442,7 +442,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="184.87"
+          width="185.5"
           height="8"
           fill="#3178c6"
         />
@@ -450,9 +450,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="184.87"
+          x="185.5"
           y="0"
-          width="35.28"
+          width="34.87"
           height="8"
           fill="#f1e05a"
         />
@@ -460,9 +460,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="220.15"
+          x="220.37"
           y="0"
-          width="18.22"
+          width="18.13"
           height="8"
           fill="#663399"
         />
@@ -470,9 +470,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="238.37"
+          x="238.5"
           y="0"
-          width="11.64"
+          width="11.5"
           height="8"
           fill="#e34c26"
         />
@@ -483,28 +483,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 73.95%
+        TypeScript 74.20%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 14.11%
+        JavaScript 13.95%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 7.29%
+        CSS 7.25%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 4.65%
+        HTML 4.60%
       </text>
     </g>
   </g></g>
