@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>What is simplicity? Simplicity is the shortest path to a solution.</h3>
-          <p>- Ward Cunningham</p>
+          <h3>Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.</h3>
+          <p>- Bjarne Stroustrup</p>
         </div>
       </div>
     </foreignObject>
