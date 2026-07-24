@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.</h3>
-          <p>- Robert L. Glass</p>
+          <h3>W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
