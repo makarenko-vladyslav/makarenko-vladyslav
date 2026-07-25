@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>When debugging, novices insert corrective code; experts remove defective code.</h3>
-          <p>- Richard E. Pattis</p>
+          <h3>Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.</h3>
+          <p>- John Carmack</p>
         </div>
       </div>
     </foreignObject>
