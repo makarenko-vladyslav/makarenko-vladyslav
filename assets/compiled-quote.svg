@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>What is simplicity? Simplicity is the shortest path to a solution.</h3>
-          <p>- Ward Cunningham</p>
+          <h3>It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.</h3>
+          <p>- Alan Perlis</p>
         </div>
       </div>
     </foreignObject>
