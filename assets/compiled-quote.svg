@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.</h3>
-          <p>- Alan Perlis</p>
+          <h3>Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.</h3>
+          <p>- John Warnock</p>
         </div>
       </div>
     </foreignObject>
