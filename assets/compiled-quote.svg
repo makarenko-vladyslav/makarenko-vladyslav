@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.</h3>
-          <p>- Edsger W. Dijkstra</p>
+          <h3>The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.</h3>
+          <p>- Harlan Mills</p>
         </div>
       </div>
     </foreignObject>
