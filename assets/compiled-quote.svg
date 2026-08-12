@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.</h3>
-          <p>- John McCarthy (computer scientist)</p>
+          <h3>The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.</h3>
+          <p>- Harlan Mills</p>
         </div>
       </div>
     </foreignObject>
