@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.</h3>
-          <p>- Martin Fowler</p>
+          <h3>It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.</h3>
+          <p>- Douglas Crockford</p>
         </div>
       </div>
     </foreignObject>
