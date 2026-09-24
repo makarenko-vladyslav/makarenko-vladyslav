@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.</h3>
-          <p>- David Parnas</p>
+          <h3>W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
