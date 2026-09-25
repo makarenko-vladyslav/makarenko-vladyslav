@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.</h3>
-          <p>- Danny Hillis</p>
+          <h3>The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.</h3>
+          <p>- Joe Armstrong (programmer)</p>
         </div>
       </div>
     </foreignObject>
