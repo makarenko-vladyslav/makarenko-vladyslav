@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>JavaScript, purely by accident, has become the most popular programming language in the world.</h3>
-          <p>- Douglas Crockford</p>
+          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
+          <p>- Rob Pike</p>
         </div>
       </div>
     </foreignObject>
