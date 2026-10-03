@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Codes are a puzzle. A game, just like any other game.</h3>
-          <p>- Alan Turing</p>
+          <h3>Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.</h3>
+          <p>- Stan Kelly-Bootle</p>
         </div>
       </div>
     </foreignObject>
