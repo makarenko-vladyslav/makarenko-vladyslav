@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Fancy algorithms are slow when n is small, and n is usually small.</h3>
-          <p>- Rob Pike</p>
+          <h3>Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.</h3>
+          <p>- Martin Fowler</p>
         </div>
       </div>
     </foreignObject>
