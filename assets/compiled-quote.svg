@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.</h3>
-          <p>- Martin Fowler</p>
+          <h3>I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.</h3>
+          <p>- Donald Knuth</p>
         </div>
       </div>
     </foreignObject>
