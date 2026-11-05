@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.</h3>
-          <p>- Edsger W. Dijkstra</p>
+          <h3>Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.</h3>
+          <p>- L. Peter Deutsch</p>
         </div>
       </div>
     </foreignObject>
