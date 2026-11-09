@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Ideas don't disappear. They change form, they merge with other ideas.</h3>
-          <p>- Bob Frankston</p>
+          <h3>It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.</h3>
+          <p>- Alan Perlis</p>
         </div>
       </div>
     </foreignObject>
