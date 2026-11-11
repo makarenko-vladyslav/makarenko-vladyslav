@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>There are only two kinds of languages: the ones people complain about and the ones nobody uses.</h3>
-          <p>- Bjarne Stroustrup</p>
+          <h3>Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
