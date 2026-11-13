@@ -69,8 +69,8 @@
     
         </style>
         <div class="container">
-          <h3>Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.</h3>
-          <p>- Martin Fowler</p>
+          <h3>A number of studies have shown testing not very effective at finding bugs.</h3>
+          <p>- Daniel T. Barry</p>
         </div>
       </div>
     </foreignObject>
